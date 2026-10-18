@@ -243,4 +243,4 @@ This repository serves as the official landing page for Grapholite. The software
 **Get the most recent version of Grapholite today!**
 
 ---
-**Last updated:** 2026-10-18 19:46:20 UTC
+**Last updated:** 2026-10-18 21:58:51 UTC
